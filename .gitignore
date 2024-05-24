@@ -1,0 +1,6 @@
+# Ignore credentials files
+credentials.json
+credentials2.json
+
+# Ignore the kafka_environment directory
+entorno_kafka/

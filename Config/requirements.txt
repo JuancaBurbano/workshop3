@@ -1,0 +1,10 @@
+mysql
+numpy
+sqlalchemy
+mysql.connector
+seaborn
+kafka
+joblib
+mysql-connector-python
+matplotlib
+kafka-python
