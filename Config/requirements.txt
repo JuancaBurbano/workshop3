@@ -8,3 +8,4 @@ joblib
 mysql-connector-python
 matplotlib
 kafka-python
+scikit-learn
